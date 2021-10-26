@@ -23,4 +23,12 @@ if __name__ == '__main__':
     print("Iterable 3 = ", iterable3, '\n')
     merge(iterable1, iterable2, iterable3)
 
-    
+""" 
+OUTPUT: 
+Iterable 1 =  [1, 5, 9]
+Iterable 2 =  [2, 5]
+Iterable 3 =  [1, 6, 10, 11]
+
+Merge sequence = [1, 1, 2, 5, 5, 6, 9, 10, 11]
+
+"""    
