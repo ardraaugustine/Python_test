@@ -22,3 +22,5 @@ if __name__ == '__main__':
     iterable3= sorted(num3)
     print("Iterable 3 = ", iterable3, '\n')
     merge(iterable1, iterable2, iterable3)
+
+    
